@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180551195427",
+    "firebase_url": "https://agenda-sync-8c611.firebaseio.com",
+    "project_id": "agenda-sync-8c611",
+    "storage_bucket": "agenda-sync-8c611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180551195427:android:3aeba0c43757ffae",
+        "android_client_info": {
+          "package_name": "com.example.leonardo.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180551195427-bu0qta28me5dri2so0a3lc3b12pm4u0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leonardo.agenda",
+            "certificate_hash": "ed3d4037b22250fe09efa7fe6e66139515c8bc53"
+          }
+        },
+        {
+          "client_id": "180551195427-5rf59e7h3seih1pvc2176460m922ehlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToxl36JeQe2WBg_JWtTFasLjLLRlRVss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180551195427-5rf59e7h3seih1pvc2176460m922ehlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
